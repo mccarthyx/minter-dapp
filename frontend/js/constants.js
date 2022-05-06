@@ -1,5 +1,5 @@
-const contractAddress = "0x5C2ea9AF3eDABFC48f34fA94b6D826CD139A5154"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x22f8788a5a602415C5F2F402058E4D6C7cA4d909"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Party Bear Crew NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
